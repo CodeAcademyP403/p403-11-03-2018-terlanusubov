@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style-type: none;
+}
+.clearfix{
+    clear: both;
+}
+body{
+    height: 5000px;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+#services h2{
+    color: #636363;
+}
+#services .main > div{
+    margin-top: 30px;
+    
+}
+#services h5{
+    font-size: 14px;
+    color: #636363;
+}
+#services p{
+    color: #8c8c8c;
+    margin-top: 20px;
+}
+#services i{
+    color: #69B417;
+    font-size: 30px;
+}
